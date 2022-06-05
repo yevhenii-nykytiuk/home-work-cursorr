@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0 auto;
+}
+
+header {
+  text-align: left;
+}
+
+hr, img, p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+span {
+  font-weight: 600;
+}
+
+ul {
+  margin-left: 40px;
+}
+
